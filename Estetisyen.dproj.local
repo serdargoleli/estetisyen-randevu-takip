@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.286,=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Estetisyen\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.259,=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.547,=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Estetisyen\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Estetisyen\Estetisyen.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Estetisyen\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Estetisyen\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.115,=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Estetisyen\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Estetisyen\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Estetisyen\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,=C:\Users\batuh\OneDrive\Belgeler\Embarcadero\Studio\Projects\Estetisyen\Unit3.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
